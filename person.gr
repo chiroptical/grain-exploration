@@ -1,0 +1,4 @@
+record Person { name: String, age: Number }
+
+let person = { name: "Barry", age: 35 }
+print(person)
